@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ans2022skipq
-- 👀 I’m interested in Full Stack Web Developement using Django and React
+- 👀 I’m interested in FullStack Web Developement using Django and Reactjs | Machine Leraning | Data Analysis | Cloud DevOps
 - 🌱 I’m currently learning Data Analysis and Machine Learning in Python
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 How to reach me ashakeel1111@gmail.com 
